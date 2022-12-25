@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vishal
 - 👀 I’m interested in opensource project contribution
 - 🌱 I’m currently learning Python, Odoo, Django, Node
-- 💞️ I’m looking to collaborate on OCA
 - 📫 Reach me @ vthacker99@hotmail.com
 
 <!---
