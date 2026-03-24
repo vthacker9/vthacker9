@@ -1,9 +1,31 @@
-- 👋 Hi, I’m Vishal
-- 👀 I’m interested in opensource project contribution
-- 🌱 I’m currently learning Python, Odoo, Django, Node
-- 📫 Reach me @ vthacker99@hotmail.com
+# Hi, I am Vishal Thacker 👋
 
-<!---
-vthacker9/vthacker9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Odoo Techno-Functional Architect** building scalable, business-aligned ERP solutions with Odoo.
+
+---
+
+## 🛠️ What I Do
+
+- Design and implement Odoo modules (v10–v18+)
+- Bridge business processes with technical architecture
+- Customize workflows, reports, and integrations
+- Lead Odoo migrations and performance optimizations
+- Mentor teams on Odoo best practices & OCA standards
+
+---
+
+## 📊 Tech Stack
+
+- **Odoo**: Python, XML, QWeb, ORM, Odoo.sh
+- **Frontend**: JavaScript, XML, Bootstrap
+- **DevOps**: Docker, Git, GitHub Actions
+- **Databases**: PostgreSQL
+- **Tools**: VS Code, Odoo Studio, Postman
+
+---
+
+## 🌐 Let’s Connect
+
+- [LinkedIn] https://www.linkedin.com/in/vthacker999
+---
+> “Building ERP systems that work *with* the business — not against it.”
